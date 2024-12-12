@@ -8,6 +8,7 @@ NOTE: These builds mostly don't have shared SFX code due to their hardcoded natu
 (Program starts at $0800 - Using D0 FB BC 3F ?? ?? and A2 ?? 3F ?? ??)
 (Program starts at $0800 - 3D 0E & 78 17)
 - F-Zero (Beta)
+(Program starts at $0800 - Using D0 FB BC 3F ?? ??)
 (Program starts at $0800 - 3A 11)
 - Aging Cassette
 - SNES Burn-In Test Cartridge (one of three different builds used, used for the Sound Module and Burn-In test)
@@ -22,7 +23,7 @@ NOTE: These builds mostly don't have shared SFX code due to their hardcoded natu
 - Super Scope 6 (one of two different builds used, used for Blastris: builds are identical between all versions)
 
 (*Ver S1.20*)
-(Program starts at $0800 - Using D0 FB 3F ?? ??)
+(Program starts at $0800 - Using D0 FB BC 3F ?? ??)
 (Program starts at $0800 - 30 14)
 - Mario Paint
 
